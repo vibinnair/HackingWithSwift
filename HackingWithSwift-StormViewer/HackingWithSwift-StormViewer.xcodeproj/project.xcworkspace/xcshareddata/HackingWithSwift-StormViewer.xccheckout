@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>B345AA6E-FDEC-4F09-9046-C14EB70DE765</string>
+	<key>IDESourceControlProjectName</key>
+	<string>HackingWithSwift-StormViewer</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>833432429EB2E4CC189333D1AD88E929260795D2</key>
+		<string>https://github.com/vibinnair/HackingWithSwift-StormViewer.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>HackingWithSwift-StormViewer.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>833432429EB2E4CC189333D1AD88E929260795D2</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/vibinnair/HackingWithSwift-StormViewer.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>833432429EB2E4CC189333D1AD88E929260795D2</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>833432429EB2E4CC189333D1AD88E929260795D2</string>
+			<key>IDESourceControlWCCName</key>
+			<string>HackingWithSwift-StormViewer</string>
+		</dict>
+	</array>
+</dict>
+</plist>
