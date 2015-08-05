@@ -20,6 +20,7 @@ class MasterViewController: UITableViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
+        navigationItem.rightBarButtonItem = UIBarButtonItem(barButtonSystemItem: UIBarButtonSystemItem.Add, target: self, action: "promptForAnswer")
         let fileManager = NSFileManager.defaultManager()
         if let path = NSBundle.mainBundle().resourcePath {
             if let items = fileManager.contentsOfDirectoryAtPath(path, error: nil) {
@@ -67,5 +68,6 @@ class MasterViewController: UITableViewController {
         return true
     }
 
+    func
 }
 

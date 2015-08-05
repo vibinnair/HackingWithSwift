@@ -7,14 +7,14 @@
 	<key>IDESourceControlProjectIdentifier</key>
 	<string>913B111E-633D-4201-9C51-5F51BB44AA15</string>
 	<key>IDESourceControlProjectName</key>
-	<string>project</string>
+	<string>HackingWithSwift-WebBrowser</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>902C1B6E4C9E254718884B6E33B5BC4739F29F70</key>
 		<string>https://github.com/vibinnair/hacking_with_swift.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>HackingWithSwift-WebBrowser/HackingWithSwift-WebBrowser.xcodeproj/project.xcworkspace</string>
+	<string>HackingWithSwift-WebBrowser/HackingWithSwift-WebBrowser.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>902C1B6E4C9E254718884B6E33B5BC4739F29F70</key>

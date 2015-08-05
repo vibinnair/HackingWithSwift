@@ -5,7 +5,7 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>B345AA6E-FDEC-4F09-9046-C14EB70DE765</string>
+	<string>A96AAE7F-9158-4FF9-BF05-16D07D6D2ABE</string>
 	<key>IDESourceControlProjectName</key>
 	<string>project</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
@@ -14,7 +14,7 @@
 		<string>https://github.com/vibinnair/hacking_with_swift.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>HackingWithSwift-StormViewer/HackingWithSwift-StormViewer.xcodeproj/project.xcworkspace</string>
+	<string>HackingWithSwift-Anagrams/HackingWithSwift-Anagrams.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>902C1B6E4C9E254718884B6E33B5BC4739F29F70</key>
